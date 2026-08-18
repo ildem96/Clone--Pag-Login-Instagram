@@ -1,4 +1,4 @@
-# Página de Login do Instagram
+# Página de Login do Instagram ![instagram-icon](https://icons8.com/icon/Xy10Jcu1L2Su/instagram)
 
 Um projeto simples que recria a interface de login do Instagram, desenvolvido como exercício de aprendizado em desenvolvimento web.
 
