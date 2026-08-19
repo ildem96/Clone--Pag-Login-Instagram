@@ -28,9 +28,8 @@ Este projeto serviu como base sólida para entender como HTML e CSS trabalham ju
 ### Preview
 ![animacao-pagina](https://github.com/ildem96/Clone--Pag-Login-Instagram/blob/main/animacao.gif?raw=true)
 
-<p class="codepen" data-height="300" data-pen-title="Instagram Responsible Login Page" data-version="2" data-default-tab="html,result" data-slug-hash="NPdZmop" data-user="Ildem96" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/editor/Ildem96/pen/01a01625-6524-737f-9cac-d2659c3baad1">
+<iframe height="300" style="width: 100%;" scrolling="no" title="Instagram Responsible Login Page" src="https://codepen.io/editor/Ildem96/embed/01a01625-6524-737f-9cac-d2659c3baad1?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true">
+  See the Pen <a href="https://codepen.io/editor/Ildem96/pen/01a01625-6524-737f-9cac-d2659c3baad1">
   Instagram Responsible Login Page</a> by ildem (<a href="https://codepen.io/Ildem96">@Ildem96</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://public.codepenassets.com/embed/index.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
