@@ -28,4 +28,4 @@ Este projeto serviu como base sólida para entender como HTML e CSS trabalham ju
 ### Preview
 ![animacao-pagina](https://github.com/ildem96/Clone--Pag-Login-Instagram/blob/main/animacao.gif?raw=true)
 
-<iframe height="500" style="width: 50%;" scrolling="no" title="Instagram Responsible Login Page" src="https://codepen.io/editor/Ildem96/embed/01a01625-6524-737f-9cac-d2659c3baad1?default-tab=result&theme-id=-2" frameborder="yes" loading="lazy" allowtransparency="true"></iframe>
+<iframe height="500" style="width: 50%;" scrolling="no" title="Instagram Responsible Login Page" src="https://codepen.io/Ildem96/embed/01a01625-6524-737f-9cac-d2659c3baad1?default-tab=result&theme-id=-2" frameborder="yes" loading="lazy" allowtransparency="true"></iframe>
