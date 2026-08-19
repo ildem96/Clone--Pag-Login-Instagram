@@ -38,6 +38,5 @@ Este projeto serviu como base sólida para entender como HTML e CSS trabalham ju
   loading="lazy" 
   allowtransparency="true" 
   allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/Ildem96/pen/01a01625-6524-737f-9cac-d2659c3baad1">
-  Instagram Responsible Login Page</a> by Ildem (<a href="https://codepen.io/Ildem96">@Ildem96</a>) on <a href="https://codepen.io">CodePen</a>.
+  See the Pen <a href="https://codepen.io/Ildem96/pen/01a01625-6524-737f-9cac-d2659c3baad1">Instagram Responsible Login Page</a> by Ildem (<a href="https://codepen.io/Ildem96">@Ildem96</a>) on <a href="https://codepen.io">CodePen</a>.
 </iframe>
